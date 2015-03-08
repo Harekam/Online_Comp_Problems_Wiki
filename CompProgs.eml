@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<component inherit-compiler-output="true" inheritJdk="true">
+	<output-test url="file://$MODULE_DIR$/out/test/CompProgs"/>
+	<exclude-output/>
+	<contentEntry url="file://$MODULE_DIR$"/>
+	<lib name="algs4.jar" scope="COMPILE">
+		<srcroot url="jar://$MODULE_DIR$/libs/algs4.jar!/"/>
+		<relative-module-src project-related="jar://$PROJECT_DIR$/libs/algs4.jar!/"/>
+		<relative-module-cls project-related="jar://$PROJECT_DIR$/libs/algs4.jar!/"/>
+	</lib>
+	<lib name="stdlib.jar" scope="COMPILE">
+		<srcroot url="jar://$MODULE_DIR$/libs/stdlib.jar!/"/>
+		<relative-module-src project-related="jar://$PROJECT_DIR$/libs/stdlib.jar!/"/>
+		<relative-module-cls project-related="jar://$PROJECT_DIR$/libs/stdlib.jar!/"/>
+	</lib>
+</component>
